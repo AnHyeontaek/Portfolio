@@ -59,7 +59,8 @@ Phone : (+82) 010-****-6815
   - 주어진 운전면허시험장 지도에서 로봇이 정해진 경로대로 이동하며 정지선, 신호등, 차선 등 장애물을 인식하며 실제 운전면허 시험장처럼 주행하는 시스템
   - Platform : Linux / Tech : ROS / Language : PYTHON
   - 수행한 역할 : ROS를 활용한 전반적인 주행 기능 개발(카메라 및 라이다 센서를 이용하여 객체를 인식하고 상황에 맞게 주행하는 기능을 제공한다.)```팀장, 주행 기능 및 객체 인식 기능 개발 파트```
-<br></br>
+  <img src="https://github.com/AnHyeontaek/Portfolio/assets/81468759/2295c5bd-917b-40ef-afae-3d3c63ecfd8b" width="50%" height="20%" />
+  <img src="https://github.com/AnHyeontaek/Portfolio/assets/81468759/d80d57df-3863-402d-bc78-d0f65e3afe7f" width="33%" height="20% />
   > LaserScan에서의 scan 토픽을 구독하여 [전방, 좌측, 우측] 데이터 형식으로 처리한다. 
 
   > Lidar 센서의 데이터를 활용하여 정지선, 중앙선, 장애물 등 각 상황에 맞게 주행 경로에 따라 주행한다.
@@ -78,7 +79,10 @@ Phone : (+82) 010-****-6815
   - 현재 서비스하지 않는 실내지도를 제공하기 위해 Lidar센서를 이용하여 맵을 촬영한 후 구축하는 것을 자동화하고 이를 메타버스와 연계하여 제공하는 시스템
   - Platform : Linux, NCloud / Tech : ROS, Spring Boot, Raspberry Pi / Language : JAVA, PYTHON
   - 수행한 역할 : 아이디어 제안, Spring Boot를 사용하여 Back-End 구현, Unity에서의 맵 모델링 ```팀장, BackEnd 파트 및 맵 모델링 파트```
-<br></br>
+  <img src="https://github.com/AnHyeontaek/Portfolio/assets/81468759/06391c8d-9810-4e37-b187-f2bcc31b8654" width="33%" height="33%"/>
+  <img src="https://github.com/AnHyeontaek/Portfolio/assets/81468759/c17b2f1a-a175-44a7-88e3-360a31e5c303" width="33%" height="50%"/>
+  <img src="https://github.com/AnHyeontaek/Portfolio/assets/81468759/b0aefcb4-0801-47a1-857e-1c85e0420404" width="33%" height="33%"/>
+  
   > 라즈베리파이와 Lidar센서를 연결하여 촬영을 한 후, PCL(Point Cloud Library)를 통해 촬영된 포인트 클라우드를 합병하고 obj파일로 변환한다. 그 후 POST방식으로 서버에 전송하여 저장한다.
 
   > 이 프로젝트를 통해 접해보지 못한 기술들을 습득하며 좋은 경험이 되었고, 프로젝트가 끝난 후, ‘2021학년도 동계계절학기 캡스톤디자인 경진대회에서 대상을 수상하였다.
