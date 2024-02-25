@@ -70,7 +70,7 @@ Phone : (+82) 010-****-6815
   - Platform : Android / Tech : Android Studio, **Spring Boot** / Language : JAVA
   - 수행한 역할 : 아이디어 제안 및 시스템 설계, SpringBoot를 사용하여 Back-End 구현, 메인화면과 같은 사용자 Front-End 제작  ```팀장, BackEnd 및 사용자 FrontEnd 파트```
   <img src="https://github.com/AnHyeontaek/Portfolio/assets/81468759/2295c5bd-917b-40ef-afae-3d3c63ecfd8b" width="50%" height="20%" />
-  <img src="https://github.com/AnHyeontaek/Portfolio/assets/81468759/d80d57df-3863-402d-bc78-d0f65e3afe7f" width="33%" height="20% />
+  <img src="https://github.com/AnHyeontaek/Portfolio/assets/81468759/d80d57df-3863-402d-bc78-d0f65e3afe7f" width="33%" height="20%" />
 <br></br>
   > 정보를 제공하는 서버는 MVC 패턴으로 Spring Boot을 활용해 구축하여 REST API를 통해 JSON 파일을 통해 전달하고 저장하도록 구현하였다. 정보는 사진 정보, 사용자 정보, 기프티콘 정보, 사용자 활동 정보(찜, 댓글, 보상 내역)를 제공한다.
 
