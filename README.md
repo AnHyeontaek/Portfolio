@@ -59,8 +59,7 @@ Phone : (+82) 010-****-6815
   - 주어진 운전면허시험장 지도에서 로봇이 정해진 경로대로 이동하며 정지선, 신호등, 차선 등 장애물을 인식하며 실제 운전면허 시험장처럼 주행하는 시스템
   - Platform : Linux / Tech : ROS / Language : PYTHON
   - 수행한 역할 : ROS를 활용한 전반적인 주행 기능 개발(카메라 및 라이다 센서를 이용하여 객체를 인식하고 상황에 맞게 주행하는 기능을 제공한다.)```팀장, 주행 기능 및 객체 인식 기능 개발 파트```
-  <img src="https://github.com/AnHyeontaek/Portfolio/assets/81468759/2295c5bd-917b-40ef-afae-3d3c63ecfd8b" width="50%" height="20%" />
-  <img src="https://github.com/AnHyeontaek/Portfolio/assets/81468759/d80d57df-3863-402d-bc78-d0f65e3afe7f" width="33%" height="20% />
+  
   > LaserScan에서의 scan 토픽을 구독하여 [전방, 좌측, 우측] 데이터 형식으로 처리한다. 
 
   > Lidar 센서의 데이터를 활용하여 정지선, 중앙선, 장애물 등 각 상황에 맞게 주행 경로에 따라 주행한다.
@@ -70,6 +69,8 @@ Phone : (+82) 010-****-6815
   - 기대효과 : 여행객 - Credit을 통한 상품 교환 / 지역 소상공인 - 여행객 증가로 인한 매출 증가와 같이 서로 WIN-WIN하는 구조를 가짐
   - Platform : Android / Tech : Android Studio, **Spring Boot** / Language : JAVA
   - 수행한 역할 : 아이디어 제안 및 시스템 설계, SpringBoot를 사용하여 Back-End 구현, 메인화면과 같은 사용자 Front-End 제작  ```팀장, BackEnd 및 사용자 FrontEnd 파트```
+  <img src="https://github.com/AnHyeontaek/Portfolio/assets/81468759/2295c5bd-917b-40ef-afae-3d3c63ecfd8b" width="50%" height="20%" />
+  <img src="https://github.com/AnHyeontaek/Portfolio/assets/81468759/d80d57df-3863-402d-bc78-d0f65e3afe7f" width="33%" height="20% />
 <br></br>
   > 정보를 제공하는 서버는 MVC 패턴으로 Spring Boot을 활용해 구축하여 REST API를 통해 JSON 파일을 통해 전달하고 저장하도록 구현하였다. 정보는 사진 정보, 사용자 정보, 기프티콘 정보, 사용자 활동 정보(찜, 댓글, 보상 내역)를 제공한다.
 
