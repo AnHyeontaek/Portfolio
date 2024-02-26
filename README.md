@@ -34,7 +34,8 @@ Phone : (+82) 010-****-6815
   - 오랫동안 업데이트되지 않은 학과 홈페이지를 개선하고 필요한 기능을 추가하는 프로젝트 진행
   - Platform : Web, NCloud / Tech : Web(HTML, CSS, JAVASCRIPT), PHP / Language : HTML, CSS, JAVASCRIPT
   - 수행한 역할 :  이전 학과 홈페이지에 존재하지 않는 학점계산기 기능 개발 ( 컴퓨터소프트웨어공학과 학년별 과목이 자동 추가할 수 있는 기능과 학점계산 기능을 제공한다. ) ```팀원, 학점계산기 개발 파트```
-<br></br>
+  <img src="https://github.com/AnHyeontaek/Portfolio/assets/81468759/a2b96570-9a85-4e6c-a00c-ea9aff57c3ec" width="50%" height="50%"/>
+
   > 기존 '에브리타임', 'Naver'에서 제공하는 학점계산기와 달리 학과의 학년, 학기를 선택하면 수강과목이 자동으로 입력되어 별도의 입력 없이 사용자들이 편하게 자신의 학점만을 입력하여 계산 정보를 받을 수 있도록 구현하였다. 
   
   > 학년, 학기 별 수강 과목 데이터를 DB에 저장해두며, 관리자가 직접 해마다 추가, 삭제, 수정 과목들을 관리자 페이지에서 수정할 수 있게 구현하였다.
@@ -44,7 +45,11 @@ Phone : (+82) 010-****-6815
   - 스터디카페에서 사용되는 기능을 디자인 패턴을 적용하여 구현하는 프로젝트 진행
   - Language : JAVA
   - 수행한 역할 : 사용자 결제 기능 개발, 서버 데이터 관리 기능 개발 ```팀원, 아이디어 제안 및 각 디자인 패턴을 이용한 해당 기능 개발 파트```
-<br></br>
+  <img src="https://github.com/AnHyeontaek/Portfolio/assets/81468759/faef1ccd-619a-4a86-9e77-08d533ecb5f7" width="30%" heigth="30%"/>
+  <img src="https://github.com/AnHyeontaek/Portfolio/assets/81468759/f4d05421-050f-4510-b24f-7302d0a36242" width="30%" height="30%"/>
+  <img src="https://github.com/AnHyeontaek/Portfolio/assets/81468759/8c611f53-c111-4b59-83c3-5f70f001f92c" width="30%" height="30%"/>
+  <img src="http:"
+  
   > 사용자와 관리자 간의 상호작용을 목표로 하는 정보 교환 서비스를 제공한다.
 
   > Builder Pattern(빌더 패턴)을 적용하여 사용자의 결제 정보를 입력받는데 필수 정보와 선택 정보를 구분하여 객체 생성을 깔끔하고 유연하게 하고, Strategy Pattern(전략 패턴)을 적용하여 데이터 추가, 조회, 삭제 등 비슷한 행위를 하는 기능들을 쉽게 접근하여 관리할 수 있게 한다. 
@@ -59,6 +64,9 @@ Phone : (+82) 010-****-6815
   - 주어진 운전면허시험장 지도에서 로봇이 정해진 경로대로 이동하며 정지선, 신호등, 차선 등 장애물을 인식하며 실제 운전면허 시험장처럼 주행하는 시스템
   - Platform : Linux / Tech : ROS / Language : PYTHON
   - 수행한 역할 : ROS를 활용한 전반적인 주행 기능 개발(카메라 및 라이다 센서를 이용하여 객체를 인식하고 상황에 맞게 주행하는 기능을 제공한다.)```팀장, 주행 기능 및 객체 인식 기능 개발 파트```
+  <img src="https://github.com/AnHyeontaek/Portfolio/assets/81468759/5352712f-82f5-4f0e-ae3e-0aa17719a7d1" width="30%" height="30%"/>
+  <img src="https://github.com/AnHyeontaek/Portfolio/assets/81468759/9dc30dee-ed03-4b16-a306-93f67adf4434" width="30%" height="30%"/>
+  <img src="https://github.com/AnHyeontaek/Portfolio/assets/81468759/d38d2960-63f2-4c39-ae14-99c502675080" width="30%" height="30%"/>
   
   > LaserScan에서의 scan 토픽을 구독하여 [전방, 좌측, 우측] 데이터 형식으로 처리한다. 
 
