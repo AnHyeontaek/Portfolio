@@ -96,6 +96,23 @@ Phone : (+82) 010-****-6815
 
   > 이 프로젝트를 통해 접해보지 못한 기술들을 습득하며 좋은 경험이 되었고, 프로젝트가 끝난 후, ‘2021학년도 동계계절학기 캡스톤디자인 경진대회에서 대상을 수상하였다.
 
+- **책을 통한 대학교 멘토-멘티 플랫폼 "도르마북"**
+  
+  <img src="https://github.com/AnHyeontaek/Portfolio/assets/81468759/cfcd002b-6031-40b0-a2df-f20ddf9e6203" width="50%" height="50%"/>
+  
+  - 게시판을 이용하여 책을 통해 멘토-멘티 관계를 형성시켜주고, 1대1 화상회의 및 채팅 기능을 제공하는 학습실을 제공해주는 플랫폼
+  - Platform : Linux, AWS EC2 / Tech : SpringBoot, JPA, JWT, WebSocket / Language : JAVA
+  - 수행한 역할 : 아이디어 제안, SpringBoot를 사용한 BackEnd 구현, DB 설계, JWT를 적용한 서버와의 API 통신 구현, 게시판 관련 API 구현 ```팀원, BackEnd 및 게시판 API 구현 담당```
+  
+  <img src="https://github.com/AnHyeontaek/Portfolio/assets/81468759/304240d3-962d-4008-bb4e-858b21fd53ab" width="30%" height="30%"/>
+  <img src="https://github.com/AnHyeontaek/Portfolio/assets/81468759/fb2597d9-1546-4fe1-a518-92dad612f17d" width="40%" height="40%"/>
+  <img src="https://github.com/AnHyeontaek/Portfolio/assets/81468759/b55b5335-09f2-44a8-80a7-8d52dc3f78a9" width="45%" height="45%"/>
+  <img src="https://github.com/AnHyeontaek/Portfolio/assets/81468759/8a80693e-3c51-498d-bbe9-8ae927ace2d3" width="45%" height="45%"/>
+
+  > 서버는 SpringBoot를 사용하여 구축하였으며, REST API를 통한 JSON 데이터를 주고 받는다. 로그인 시 JWT가 발급이 되고, API를 호출할 때 JWT를 사용해야만 호출되도록 구현하였다. 
+
+  > 1대1 화상회의 및 채팅 기능은 WebRTC를 사용하여 구현하였다.
+
 ### 사용 가능한 언어 :capital_abcd:
 
 - C
